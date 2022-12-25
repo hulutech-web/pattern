@@ -1,3 +1,3 @@
-module gitee.com/hulutech/pattern
+module github.com/hulutech-web/pattern
 
 go 1.19
